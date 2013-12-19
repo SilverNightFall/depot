@@ -1,6 +1,5 @@
 # Read about fixtures at
 # http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
-
 one:
   title: MyString
   description: MyText
@@ -13,7 +12,7 @@ two:
   image_url: MyString
   price: 9.99
 #START:ruby
-
+# Uses this data in the tests
 ruby: 
   title:       Programming Ruby 1.9
   description: 
